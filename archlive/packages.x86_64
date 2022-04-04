@@ -117,7 +117,9 @@ calamares
 zsh
 kitty
 woof-change-wall
-woof-qtile-config
+woof-i3-config
+i3-gaps
+i3status
 woof-gtk-config
 woof-kitty-config
 gtk3
